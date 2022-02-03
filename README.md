@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mat-boyle
-- 👀 I’m interested in javascript and python development.
-- 🌱 I’m currently learning programming at Launch School
+- 👀 I’m interested in javascript and swift development.
+- 🌱 I’m currently learning programming at The Odin Project
 - 📫 How to reach me mat@matboyle.com
 
 <!---
