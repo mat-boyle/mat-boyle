@@ -1,6 +1,6 @@
 - Hi, I’m @mat-boyle
 - I’m interested in python and swift & swift UI development.
-- I’m currently a senior in Computer Science at WGU.
+- I’m recently graduated from WGU with a Computer Science degree
 - How to reach me: mat@matboyle.com
 
 <!---
